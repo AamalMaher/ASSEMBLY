@@ -9,7 +9,7 @@ this is every letter and it`s 5 digit from 0`s and 1`s:
 ![image](https://github.com/AamalMaher/ASSEMBLY/blob/main/table.jpg)
 
 #### Sample Run
-![image](https://github.com/AamalMaher/ASSEMBLY/blob/main/encrytion.png)
+![image](https://github.com/AamalMaher/ASSEMBLY/blob/main/enc.png)
 
 ### for decryption:
 user can enter 20 digit from 0`s and 1`s and the system convert them to the string that equivalent to them.
