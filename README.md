@@ -6,7 +6,7 @@
 we try to use an algorithm realted to  our feild it 1`s and 0`s so we try to define capital letters,every letter define by 5 digits fom 0`s and 1`s
 user enter string that have 7 capital letter and the system convert the string to  0`s and 1`s
 this is every letter and it`s 5 digit from 0`s and 1`s:
-![image](![table](https://github.com/AamalMaher/ASSEMBLY/assets/155005917/86ab1b5e-0b62-40c6-8291-507a3c324e8a))
+![image](https://github.com/AamalMaher/ASSEMBLY/blob/main/table.jpg)
 
 #### Sample Run
 ![image](![encrytion](https://github.com/AamalMaher/ASSEMBLY/assets/155005917/bea30aed-3796-47cb-adfa-21e8e63f878e)
