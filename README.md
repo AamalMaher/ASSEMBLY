@@ -14,9 +14,9 @@ this is every letter and it`s 5 digit from 0`s and 1`s:
 ### for decryption:
 user can enter 20 digit from 0`s and 1`s and the system convert them to the string that equivalent to them.
 #### Sample Run
-![image](![decryption](https://github.com/AamalMaher/ASSEMBLY/assets/155005917/abd72ba5-4d5b-4502-974a-1873337fa587)
+![image](https://github.com/AamalMaher/ASSEMBLY/blob/main/decryption.png
 )
 
 ## Author
 [Aamal Maher](https://github.com/AamalMaher)
-[Mohamed Fathy]
+### Mohamed Fathy
