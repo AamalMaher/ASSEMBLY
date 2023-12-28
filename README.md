@@ -19,4 +19,4 @@ user can enter 20 digit from 0`s and 1`s and the system convert them to the stri
 
 ## Author
 [Aamal Maher](https://github.com/AamalMaher)
-### Mohamed Fathy
+##### Mohamed Fathy
